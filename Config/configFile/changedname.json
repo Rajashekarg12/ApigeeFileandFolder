@@ -4,7 +4,7 @@
         "apiProducts": [
       {
         "name": "99weatherProduct",
-        "displayName": "${{TestDisplay}}",
+        "displayName": "${{TESTDISPLAY}}",
         "description": "99weather Product",
         "apiResources": [
 			"/test21",
