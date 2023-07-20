@@ -5,7 +5,7 @@
             "apiProducts": [
                 "SampleAPIGEEProduct1"
             ],
-			"name": "SampleAPIGEEApplication2",
+			"name": "${{TESTNAME}}"
             "callbackUrl": "",            
             "scopes": [],
 			"status":"approved"
