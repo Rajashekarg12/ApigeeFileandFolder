@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "orgConfig": {
+        "apiProducts": [
+      {
+        "name": "99weatherProduct",
+        "displayName": "marchtest",
+        "description": "99weather Product",
+        "apiResources": [
+			"/test21",
+            "/test22",
+],
+        "approvalType": "auto",
+       "attributes": [
+			{
+				"name": "access",
+				"value": "private"
+			}
+		],
+        "environments": [
+          "${{FDAPG_ENV}}"
+        ],
+        "proxies": [
+          "forecastweatherapi"
+        ],
+        "scopes": []
+      }
+    ]
+  }
+}
