@@ -11,7 +11,7 @@
 				"value": "private"
 			}
 		],
-		"description": "${{TESTDESCRIPTION}}",
+		"description": "sample march deploy",
 		"displayName": "SampleAPIGEEProduct1",
 		"environments": [
 			"test"
